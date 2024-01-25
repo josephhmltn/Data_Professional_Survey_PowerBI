@@ -22,7 +22,7 @@ You can download the compiled survey results in MS Excel format [here](https://g
 
 - **👥 630 Unique Participants**: A diverse group with an average age of **30**.
 - **📅 16-Day Survey Duration**: Captured a snapshot of professionals' insights.
-- **🌎 Country Representation**: Majority from the **United States (41.43%)**, followed by **India (35.56%)** and other countries.
+- **🌎 Country Representation**: Majority from the **United States (41.43%)**.
 - **🎨 Ethnic Diversity**: Predominantly **White or Caucasian (239 respondents)**, with significant **Asian or Asian American (155 respondents)** representation.
 - **🚹🚺 Gender Breakdown**: More **males (468)** than **females (162)** participated in the survey.
 
@@ -39,13 +39,15 @@ You can download the compiled survey results in MS Excel format [here](https://g
 
 ### 📊 Average Happiness by Industry
 
-- **Healthcare**: Shows balance across all aspects, with **learning and coworkers** rated highest.
-- **Real Estate**: Notably lower **management** satisfaction.
-- **Finance**: Scores moderately well, **upward mobility** is a concern.
-- **Tech**: Strong in **learning opportunities**, weaker in **salary satisfaction**.
-- **Education**: Consistent scores, **salary satisfaction** could be better.
-- **Telecommunication**: Similar to education, with a slight edge in **coworkers**.
-- **Construction**: Needs improvement across all areas, especially in **upward mobility** and **management**.
+**Common Theme**: Across all industries, happiness with **salary and upward mobility/advancement** is lowest.
+
+- **Healthcare**: Shows balance across all aspects, with **learning and Work/Life Balance** rated highest.
+- **Real Estate**: Notably lower **salary** satisfaction.
+- **Finance**: Scores moderately well, with **salary** being the lowest.
+- **Tech**: Strong in **Coworkers, learning, and work/life balance**, weaker in **salary satisfaction**.
+- **Education**: **Salary satisfaction** could be better.
+- **Telecommunication**: Similar to education, with a slight edge in **work/life balance**.
+- **Construction**: Needs improvement across all areas.
 
 ## 💵 Salary Breakdown for Data Roles
 
@@ -60,7 +62,7 @@ You can download the compiled survey results in MS Excel format [here](https://g
 - **⚙️ Data Engineer**: Follows with **$66K**.
 - **🏗️ Data Architect**: Earns an average of **$64K**.
 - **📈 Data Analyst**: **$55K**, the most popular title.
-- **💾 Database Developer**: Has an average salary of **$33K**.
+- **💾 Database Developer**: Has an average salary of **$33K**, potential data issues.
 
 ## 🛠️ Technical Skills Proficiency Among Data Professionals
 
@@ -69,5 +71,5 @@ You can download the compiled survey results in MS Excel format [here](https://g
 - **🐍 Python Dominance**: With **420 mentions**, Python is the most popular programming language.
 - **📊 R**: Holds a distant second place, preferred by **101 professionals**.
 - **🔧 Other Languages**: **95** respondents work with a variety of other programming languages.
-- **🧩 C/C++ and JavaScript**: Least popular among the surveyed, with only **7 and 6 mentions**, respectively.
+- **🧩 C/C++ and JavaScript**: Significantly less popular among the surveyed, with only **7 and 6 mentions**, respectively.
 - **☕ Java**: Just **1 mention**, indicating minimal use in the data profession.
