@@ -11,7 +11,7 @@
 - **👥 Respondents**: **630** unique participants.
 - **📅 Survey Dates**: Taken over **16 unique dates**, with the most submissions on **6/10/2022**.
 - **⏰ Response Times**: **203 different time stamps** for survey completion.
-- **🔢 Age Range**: Respondents aged from **18 to 92**, with an average age of **~29.87**.
+- **🔢 Age Range**: Respondents aged from **18 to 92**, with an average age of **30**.
 - **🌎 Country Diversity**: Participants from **98 different countries**, predominantly from the **United States**.
 - **🎓 Education Levels**: **5 distinct levels** reported, **Bachelor's** degree being the most common.
 - **✨ Ethnicity**: **45 unique ethnicities**, with **White or Caucasian** being the most reported.
