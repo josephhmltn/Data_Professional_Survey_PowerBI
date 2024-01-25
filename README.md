@@ -1,6 +1,6 @@
-# Data Professional Survey Visualization
+# 📝 Data Professional Survey Visualization
 
-You can download the compiled survey results in MS Excel format [here](https://github.com/josephhmltn/Data_Professional_Survey/blob/main/Data%20professional%20survey%20results.xlsx) or download the Power BI (.pbix) file [here](https://github.com/josephhmltn/Data_Professional_Survey/blob/main/Data%20Professional%20Survey.pbix).
+📩 You can download the compiled survey results in MS Excel format [here](https://github.com/josephhmltn/Data_Professional_Survey/blob/main/Data%20professional%20survey%20results.xlsx) or download the Power BI (.pbix) file [here](https://github.com/josephhmltn/Data_Professional_Survey/blob/main/Data%20Professional%20Survey.pbix).
 
 ## 🎯 Project Goal for Data Professional Survey Analysis
 
@@ -14,7 +14,7 @@ You can download the compiled survey results in MS Excel format [here](https://g
 - **🔢 Age Range**: Respondents aged from **18 to 92**, with an average age of **~29.87**.
 - **🌎 Country Diversity**: Participants from **98 different countries**, predominantly from the **United States**.
 - **🎓 Education Levels**: **5 distinct levels** reported, **Bachelor's** degree being the most common.
-- **🌈 Ethnicity**: **45 unique ethnicities**, with **White or Caucasian** being the most reported.
+- **✨ Ethnicity**: **45 unique ethnicities**, with **White or Caucasian** being the most reported.
 
 ## 🌐 Data Professional Survey Respondent Snapshot
 
@@ -41,13 +41,13 @@ You can download the compiled survey results in MS Excel format [here](https://g
 
 **Common Theme**: Across all industries, happiness with **salary and upward mobility/advancement** is lowest.
 
-- **Healthcare**: Shows balance across all aspects, with **learning and Work/Life Balance** rated highest.
-- **Real Estate**: Notably lower **salary** satisfaction.
-- **Finance**: Scores moderately well, with **salary** being the lowest.
-- **Tech**: Strong in **Coworkers, learning, and work/life balance**, weaker in **salary satisfaction**.
-- **Education**: **Salary satisfaction** could be better.
-- **Telecommunication**: Similar to education, with a slight edge in **work/life balance**.
-- **Construction**: Needs improvement across all areas.
+- ❤️‍🩹 **Healthcare**: Shows balance across all aspects, with **learning and Work/Life Balance** rated highest.
+- 🏠 **Real Estate**: Notably lower **salary** satisfaction.
+- 💰 **Finance**: Scores moderately well, with **salary** being the lowest.
+- ⚙️ **Tech**: Strong in **Coworkers, learning, and work/life balance**, weaker in **salary satisfaction**.
+- 🏫 **Education**: **Salary satisfaction** could be better.
+- ☎️ **Telecommunication**: Similar to education, with a slight edge in **work/life balance**.
+- 🚧 **Construction**: Needs improvement across all areas.
 
 ## 💵 Salary Breakdown for Data Roles
 
