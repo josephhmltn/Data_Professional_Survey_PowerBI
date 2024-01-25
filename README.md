@@ -1,4 +1,6 @@
-# Data_Professional_Survey Visualization
+# Data Professional Survey Visualization
+
+You can download the compiled survey results in MS Excel format [here](https://github.com/josephhmltn/Data_Professional_Survey/blob/main/Data%20professional%20survey%20results.xlsx) or download the Power BI (.pbix) file [here](https://github.com/josephhmltn/Data_Professional_Survey/blob/main/Data%20Professional%20Survey.pbix).
 
 ## 🎯 Project Goal for Data Professional Survey Analysis
 
