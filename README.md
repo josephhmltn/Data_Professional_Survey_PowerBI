@@ -1,4 +1,71 @@
-# Data_Professional_Survey
-A repo showcasing a Power BI dashboard for a survey conducted of 630 respondants
+# Data_Professional_Survey Visualization
 
-**Updated README file with summary of project coming soon**
+## 🎯 Project Goal for Data Professional Survey Analysis
+
+- **Objective**: To provide a comprehensive analysis of the Data Professional Survey that captures the demographic, professional, and sentiment trends among participants, leveraging the data to inform industry standards and contribute to the discourse on workplace satisfaction, diversity, and salary equity.
+
+## 📊 Descriptive Statistics of Data Professional Survey Excel Workbook
+
+- **👥 Respondents**: **630** unique participants.
+- **📅 Survey Dates**: Taken over **16 unique dates**, with the most submissions on **6/10/2022**.
+- **⏰ Response Times**: **203 different time stamps** for survey completion.
+- **🔢 Age Range**: Respondents aged from **18 to 92**, with an average age of **~29.87**.
+- **🌎 Country Diversity**: Participants from **98 different countries**, predominantly from the **United States**.
+- **🎓 Education Levels**: **5 distinct levels** reported, **Bachelor's** degree being the most common.
+- **🌈 Ethnicity**: **45 unique ethnicities**, with **White or Caucasian** being the most reported.
+
+## 🌐 Data Professional Survey Respondent Snapshot
+
+![](images/Respondents.png)
+
+- **👥 630 Unique Participants**: A diverse group with an average age of **30**.
+- **📅 16-Day Survey Duration**: Captured a snapshot of professionals' insights.
+- **🌎 Country Representation**: Majority from the **United States (41.43%)**, followed by **India (35.56%)** and other countries.
+- **🎨 Ethnic Diversity**: Predominantly **White or Caucasian (239 respondents)**, with significant **Asian or Asian American (155 respondents)** representation.
+- **🚹🚺 Gender Breakdown**: More **males (468)** than **females (162)** participated in the survey.
+
+## 😊 Happiness Breakdown in Data Professionals
+
+![](images/Happiness.png)
+
+- **💼 Work/Life Balance**: Average score of **6/10**.
+- **🎓 Learning Opportunities**: More positive with a score of **6/10**.
+- **👥 Coworkers**: Collaboration and peer interaction also scored **6/10**.
+- **💵 Salary Satisfaction**: Lower at **4/10**, indicating room for improvement.
+- **🔝 Upward Mobility**: Another area with potential for growth, scoring **5/10**.
+- **👨‍💼 Management**: Ties with upward mobility at a **5/10** score.
+
+### 📊 Average Happiness by Industry
+
+- **Healthcare**: Shows balance across all aspects, with **learning and coworkers** rated highest.
+- **Real Estate**: Notably lower **management** satisfaction.
+- **Finance**: Scores moderately well, **upward mobility** is a concern.
+- **Tech**: Strong in **learning opportunities**, weaker in **salary satisfaction**.
+- **Education**: Consistent scores, **salary satisfaction** could be better.
+- **Telecommunication**: Similar to education, with a slight edge in **coworkers**.
+- **Construction**: Needs improvement across all areas, especially in **upward mobility** and **management**.
+
+## 💵 Salary Breakdown for Data Roles
+
+![](images/Salary.png)
+
+- **📊 Average Salary for Data Analysts**: **$53.9K** across all titles.
+- **👩‍💼👨‍💼 Gender Pay Gap**: Average salary for females is **$55.1K**, while males earn **$53.46K**.
+
+### 🏷️ Average Yearly Salary by Job Title
+
+- **🔬 Data Scientist**: Tops the chart with **$94K**.
+- **⚙️ Data Engineer**: Follows with **$66K**.
+- **🏗️ Data Architect**: Earns an average of **$64K**.
+- **📈 Data Analyst**: **$55K**, the most popular title.
+- **💾 Database Developer**: Has an average salary of **$33K**.
+
+## 🛠️ Technical Skills Proficiency Among Data Professionals
+
+![](images/Tech_Skills.png)
+
+- **🐍 Python Dominance**: With **420 mentions**, Python is the most popular programming language.
+- **📊 R**: Holds a distant second place, preferred by **101 professionals**.
+- **🔧 Other Languages**: **95** respondents work with a variety of other programming languages.
+- **🧩 C/C++ and JavaScript**: Least popular among the surveyed, with only **7 and 6 mentions**, respectively.
+- **☕ Java**: Just **1 mention**, indicating minimal use in the data profession.
