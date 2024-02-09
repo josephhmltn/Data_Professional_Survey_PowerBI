@@ -20,7 +20,7 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 
 ## 🌐 Data Professional Survey Respondent Snapshot
 
-![](images/Respondents.png)
+![](images/Survey%20Summary.png)
 
 - **👥 630 Unique Participants**: A diverse group with an average age of **30**.
 - **📅 16-Day Survey Duration**: Captured a snapshot of professionals' insights.
@@ -68,10 +68,20 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 
 ## 🛠️ Technical Skills Proficiency Among Data Professionals
 
-![](images/Tech_Skills.png)
+![](images/Skills.png)
 
 - **🐍 Python Dominance**: With **420 mentions**, Python is the most popular programming language.
 - **📊 R**: Holds a distant second place, preferred by **101 professionals**.
 - **🔧 Other Languages**: **95** respondents work with a variety of other programming languages.
 - **🧩 C/C++ and JavaScript**: Significantly less popular among the surveyed, with only **7 and 6 mentions**, respectively.
 - **☕ Java**: Just **1 mention**, indicating minimal use in the data profession.
+
+
+## 🏭 Industry and Getting Into the Data Field
+
+~[](images/Industry.png)
+
+- **Tech** dominates the industry type with **150 people**.
+- **Finance** and **Healthcare** are the next closest with **97** and **84 people** respectively.
+- **372 people** reported switching into a Data Field and **258 people** stayed within the field.
+- **269 people** say they are **Neutral** about the difficulty getting into the field, with **156 people** stating it being difficult and **134 people** saying it was easy. 
