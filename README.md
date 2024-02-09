@@ -79,7 +79,7 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 
 ## 🏭 Industry and Getting Into the Data Field
 
-~[](images/Industry.png)
+![](images/Industry.png)
 
 - **Tech** dominates the industry type with **150 people**.
 - **Finance** and **Healthcare** are the next closest with **97** and **84 people** respectively.
