@@ -40,7 +40,7 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 
 ## 🛠️ Technical Skills Proficiency Among Data Professionals
 
-![](images/Skills.png)
+![](images/TSkills.png)
 
 - **🐍 Python Dominance**: With **420 mentions**, Python is the most popular programming language.
 - **📊 R**: Holds a distant second place, preferred by **101 professionals**.
