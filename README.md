@@ -18,7 +18,7 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 - **🎓 Education Levels**: **5 distinct levels** reported, **Bachelor's** degree being the most common.
 - **✨ Ethnicity**: **45 unique ethnicities**, with **White or Caucasian** being the most reported.
 
-## 🌐 Data Professional Survey Respondent Snapshot
+## 🌐 Data Professional Survey Participant Snapshot
 
 ![](images/Summary.png)
 
