@@ -20,7 +20,7 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 
 ## 🌐 Data Professional Survey Respondent Snapshot
 
-![](images/Survey%20Summary.png)
+![](images/Summary.png)
 
 - **👥 630 Unique Participants**: A diverse group with an average age of **30**.
 - **📅 16-Day Survey Duration**: Captured a snapshot of professionals' insights.
