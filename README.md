@@ -28,6 +28,50 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 - **🎨 Ethnic Diversity**: Predominantly **White or Caucasian (239 respondents)**, with significant **Asian or Asian American (155 respondents)** representation.
 - **🚹🚺 Gender Breakdown**: More **males (468)** than **females (162)** participated in the survey.
 
+## 🏫 Education Analysis Overview
+
+![](images/Education.png)
+
+- 📈 **Highest Average Salary**: Those with a PhD have the highest average salary at **$124,700**.
+- 🎓 **Most Common Education Level**: Bachelor's degree is the most common education level with **329** individuals.
+- 👩‍🎓 **Female Education**: Majority of females reported having a Master's degree (**70** out of 91).
+- 👨‍🎓 **Male Education**: Bachelor's degree is the most common for males with **257** out of 454.
+- 🧑‍💼 **Data Analysts by Education**: Most Data Analysts have a Bachelor's degree (**203** out of 368).
+
+## 🛠️ Technical Skills Proficiency Among Data Professionals
+
+![](images/Skills.png)
+
+- **🐍 Python Dominance**: With **420 mentions**, Python is the most popular programming language.
+- **📊 R**: Holds a distant second place, preferred by **101 professionals**.
+- **🔧 Other Languages**: **95** respondents work with a variety of other programming languages.
+- **🧩 C/C++ and JavaScript**: Significantly less popular among the surveyed, with only **7 and 6 mentions**, respectively.
+- **☕ Java**: Just **1 mention**, indicating minimal use in the data profession.
+
+## 🏭 Industry and Getting Into the Data Field
+
+![](images/Industry.png)
+
+- **Tech** dominates the industry type with **150 people**.
+- **Finance** and **Healthcare** are the next closest with **97** and **84 people** respectively.
+- **372 people** reported switching into a Data Field and **258 people** stayed within the field.
+- **269 people** say they are **Neutral** about the difficulty getting into the field, with **156 people** stating it being difficult and **134 people** saying it was easy. 
+
+## 💵 Salary Breakdown for Data Roles
+
+![](images/Salary.png)
+
+- **📊 Average Salary for Data Analysts**: **$53.9K** across all titles.
+- **👩‍💼👨‍💼 Gender Pay Gap**: Average salary for females is **$55.1K**, while males earn **$53.46K**.
+
+### 🏷️ Average Yearly Salary by Job Title
+
+- **🔬 Data Scientist**: Tops the chart with **$94K**.
+- **⚙️ Data Engineer**: Follows with **$66K**.
+- **🏗️ Data Architect**: Earns an average of **$64K**.
+- **📈 Data Analyst**: **$55K**, the most popular title.
+- **💾 Database Developer**: Has an average salary of **$33K**, potential data issues.
+
 ## 😊 Happiness Breakdown in Data Professionals
 
 ![](images/Happiness.png)
@@ -50,38 +94,3 @@ Original dataset provided by [Alex the Analyst](https://github.com/AlexTheAnalys
 - 🏫 **Education**: **Salary satisfaction** could be better.
 - ☎️ **Telecommunication**: Similar to education, with a slight edge in **work/life balance**.
 - 🚧 **Construction**: Needs improvement across all areas.
-
-## 💵 Salary Breakdown for Data Roles
-
-![](images/Salary.png)
-
-- **📊 Average Salary for Data Analysts**: **$53.9K** across all titles.
-- **👩‍💼👨‍💼 Gender Pay Gap**: Average salary for females is **$55.1K**, while males earn **$53.46K**.
-
-### 🏷️ Average Yearly Salary by Job Title
-
-- **🔬 Data Scientist**: Tops the chart with **$94K**.
-- **⚙️ Data Engineer**: Follows with **$66K**.
-- **🏗️ Data Architect**: Earns an average of **$64K**.
-- **📈 Data Analyst**: **$55K**, the most popular title.
-- **💾 Database Developer**: Has an average salary of **$33K**, potential data issues.
-
-## 🛠️ Technical Skills Proficiency Among Data Professionals
-
-![](images/Skills.png)
-
-- **🐍 Python Dominance**: With **420 mentions**, Python is the most popular programming language.
-- **📊 R**: Holds a distant second place, preferred by **101 professionals**.
-- **🔧 Other Languages**: **95** respondents work with a variety of other programming languages.
-- **🧩 C/C++ and JavaScript**: Significantly less popular among the surveyed, with only **7 and 6 mentions**, respectively.
-- **☕ Java**: Just **1 mention**, indicating minimal use in the data profession.
-
-
-## 🏭 Industry and Getting Into the Data Field
-
-![](images/Industry.png)
-
-- **Tech** dominates the industry type with **150 people**.
-- **Finance** and **Healthcare** are the next closest with **97** and **84 people** respectively.
-- **372 people** reported switching into a Data Field and **258 people** stayed within the field.
-- **269 people** say they are **Neutral** about the difficulty getting into the field, with **156 people** stating it being difficult and **134 people** saying it was easy. 
